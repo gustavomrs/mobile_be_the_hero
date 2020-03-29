@@ -1,1 +1,1 @@
-im
+import { Style } from 'react-native'
