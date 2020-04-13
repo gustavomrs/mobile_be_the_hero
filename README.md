@@ -19,3 +19,13 @@ Be the hero in an application where Non Governmental Organizations (NGO's) can p
 
 > PS: When user clicks at the Whatsapp / E-mail button, the app open Whatsapp or Email senter. As this funcionality doesn't work on the emulator it was not recorded on the emulator .gif above
 
+
+## Composition of Be The Hero in therms of software projects:
+
+- react frontend: https://github.com/gustavomrs/frontend_be_the_hero
+- react-native mobile app: https://github.com/gustavomrs/mobile_be_the_hero
+- node.js backend: https://github.com/gustavomrs/backend_be_the_hero
+
+
+> Disclaimer: This is not an official platform, it was created only for study purposes.
+
