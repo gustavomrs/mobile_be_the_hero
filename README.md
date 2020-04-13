@@ -17,5 +17,5 @@ Be the hero in an application where Non Governmental Organizations (NGO's) can p
 ![User from society looking at incidents](demo/user_side.gif)
 
 
-> PS: When user clicks at the Whatsapp / E-mail button, the app open Whatsapp or Email senter. As this funcionality doesn't work on the emulator it was not recorded on the emulator GIF above
+> PS: When user clicks at the Whatsapp / E-mail button, the app open Whatsapp or Email senter. As this funcionality doesn't work on the emulator it was not recorded on the emulator .gif above
 
